@@ -10,7 +10,7 @@ It uses Orbbec Femto Bolt sensors and integrates [BlendPCR](https://github.com/m
 ¹Computer Graphics and Virtual Reality Research Lab ([CGVR](https://cgvr.cs.uni-bremen.de/)), University of Bremen | 
 ²University of Oldenburg
 
-Publication information will follow.
+Accepted at ACM VRST 2025
 
 
 ## Cite
