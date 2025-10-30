@@ -10,13 +10,13 @@ Project Context: [SisOps CGVR Website](https://cgvr.cs.uni-bremen.de/research/si
 ¹Computer Graphics and Virtual Reality Research Lab ([CGVR](https://cgvr.cs.uni-bremen.de/)), University of Bremen | 
 ²University of Oldenburg
 
-![image](images/concept.jpg)
-
 Accepted at ACM VRST 2025
 
+## Setup Image
+
+![image](images/concept.jpg)
+
 ## Source Code
-
-
 
 [>> Please find the source code on the official University of Bremen's GitLab <<](https://gitlab.informatik.uni-bremen.de/cgvr_public/DeformableProjection)
 
