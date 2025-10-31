@@ -2,7 +2,7 @@
 #### Paper | Video | Slides | Supplementary (Links will follow)
 
 C++/OpenGL implementation of our real-time projection mapping system for dynamic, uneven, and partially occluded surfaces.
-It uses Orbbec Femto Bolt sensors and integrates [BlendPCR](https://github.com/muehlenb/DeformableProjection) for precise geometric correction. The system also includes our novel GPU-based blur mitigation strategies that improve readability and reduce visual artifacts.
+It uses Orbbec Femto Bolt sensors and integrates [BlendPCR](https://github.com/muehlenb/blendpcr) for precise geometric correction. The system also includes our novel GPU-based blur mitigation strategies that improve readability and reduce visual artifacts.
 
 Project Context: [SisOps CGVR Website](https://cgvr.cs.uni-bremen.de/research/sisops/)
 
