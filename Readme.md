@@ -1,13 +1,13 @@
 # Shadow-Free Projection with Blur Mitigation on Dynamic, Deformable Surfaces
-#### Paper | Video | Slides | Supplementary (Links will follow)
+#### Paper | Video | Slides | Supplementary (links will follow on 14.11.2025)
 
 C++/OpenGL implementation of our real-time projection mapping system for dynamic, uneven, and partially occluded surfaces. It works with simulated sensors or Orbbec Femto Bolt sensors and integrates [BlendPCR](https://github.com/muehlenb/BlendPCR) for geometric correction. The system also includes our novel GPU-based blur mitigation strategies that improve readability and reduce visual artifacts.
 
 Project Context: [SisOps CGVR Website](https://cgvr.cs.uni-bremen.de/research/sisops/)
 
 [Andre Mühlenbrock¹](https://orcid.org/0000-0002-7836-3341), [Yaroslav Purgin¹](https://orcid.org/0009-0004-0924-8528),  [Nicole Steinke¹](https://orcid.org/0009-0002-8756-1793), [Verena Uslar²](https://orcid.org/0000-0003-3252-2076), [Dirk Weyhe²](https://orcid.org/0000-0002-2660-625X), [Rene Weller¹](https://orcid.org/0009-0002-2544-4153), [Gabriel Zachmann¹](https://orcid.org/0000-0001-8155-1127)\
-¹Computer Graphics and Virtual Reality Research Lab ([CGVR](https://cgvr.cs.uni-bremen.de/)), University of Bremen | 
-²University of Oldenburg
+¹Computer Graphics and Virtual Reality Research Lab ([CGVR](https://cgvr.cs.uni-bremen.de/)), University of Bremen   
+²University Clinic for Visceral Surgery at the Pius-Hospital Oldenburg, University of Oldenburg
 
 Accepted at ACM VRST 2025
 
@@ -82,11 +82,11 @@ It also allows rendering of the detected point cloud in the viewport using [Blen
 The post-processing section allows adjustment of visual parameters such as saturation, contrast, and gamma for the rendered image.
 
 ## Questions?
-If you have questions, don't hesitate to contact us: muehlenb@uni-bremen.de, zach@cs.uni-bremen.de
+If you have questions, don't hesitate to contact us: [muehlenb@uni-bremen.de](mailto:muehlenb@uni-bremen.de), [zach@cs.uni-bremen.de](mailto:zach@cs.uni-bremen.de)
 
 ## Cite
 ```
-@inproceedings{Muehlenbrock2025,
+@inproceedings{Muehlenbrock2025-VRST,
   author    = {Andre Muehlenbrock and Yaroslav Purgin and Nicole Steinke and Verena Uslar and Dirk Weyhe and Rene Weller and Gabriel Zachmann},
   title     = {Shadow-Free Projection with Blur Mitigation on Dynamic, Deformable Surfaces},
   booktitle = {Proceedings of the 31st ACM Symposium on Virtual Reality Software and Technology (VRST '25)},
