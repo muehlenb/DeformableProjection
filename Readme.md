@@ -1,5 +1,5 @@
 # Shadow-Free Projection with Blur Mitigation on Dynamic, Deformable Surfaces
-#### Paper | Video | Slides | Supplementary (links will follow on 14.11.2025)
+#### Paper | Video | Slides | Supplementary (links available on November 14, 2025)
 
 C++/OpenGL implementation of our real-time projection mapping system for dynamic, uneven, and partially occluded surfaces. It works with simulated sensors or Orbbec Femto Bolt sensors and integrates [BlendPCR](https://github.com/muehlenb/BlendPCR) for geometric correction. The system also includes our novel GPU-based blur mitigation strategies that improve readability and reduce visual artifacts.
 
