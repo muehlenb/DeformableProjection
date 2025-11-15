@@ -1,5 +1,5 @@
 # Shadow-Free Projection with Blur Mitigation on Dynamic, Deformable Surfaces
-#### Paper | [Video](https://www.youtube.com/watch?v=2V6GQzgMqcI) | Slides | [Supplementary]() (links available on November 14, 2025)
+#### [Paper](https://cgvr.cs.uni-bremen.de/papers/vrst25/projection_vrst25.pdf) | [Video](https://www.youtube.com/watch?v=2V6GQzgMqcI) | [Slides](https://cgvr.cs.uni-bremen.de/papers/vrst25/slides_projection_vrst25.pdf) | [Supplementary](https://cgvr.cs.uni-bremen.de/papers/vrst25/supplemental_material_projection_vrst25.pdf)
 
 C++/OpenGL implementation of our real-time projection mapping system for dynamic, uneven, and partially occluded surfaces. It works with simulated sensors or Orbbec Femto Bolt sensors and integrates [BlendPCR](https://github.com/muehlenb/BlendPCR) for geometric correction. The system also includes our novel GPU-based blur mitigation strategies that improve readability and reduce visual artifacts.
 
@@ -9,7 +9,7 @@ Project Context: [SisOps CGVR Website](https://cgvr.cs.uni-bremen.de/research/si
 ¹Computer Graphics and Virtual Reality Research Lab ([CGVR](https://cgvr.cs.uni-bremen.de/)), University of Bremen   
 ²University Clinic for Visceral Surgery at the Pius-Hospital Oldenburg, University of Oldenburg
 
-Accepted at ACM VRST 2025
+Presented at ACM VRST 2025 **(Best Paper Honorable Mention)**
 
 ![image](images/concept.jpg)
 
